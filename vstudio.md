@@ -1,9 +1,9 @@
 # Visual Studio
 ### bookmart set/unset
-C-k C-k
+`C-k C-k`
 
 ### bookmart next/previous
-C-k C-n / C-k C-p
+`C-k C-n` / `C-k C-p`
 
 ### comment/uncomment
 C-k C-c / C-k C-u
