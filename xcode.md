@@ -2,81 +2,87 @@
 
 ## file
 
+### save all
+`cmd + alt + s`
+
+### save copy as
+`cmd + alt + shift + s`
+
 ## compilation
 
 ### clean
-cmd + shift + k
+`cmd + shift + k`
 
 ### build
-cmd + b
+`cmd + b`
 
 ## debug
 
 ### run
-cmd + r
+`cmd + r`
 
 ### toggle breakpoint
-cmd + \
+`cmd + \`
 
 ### continue execution
-cmd + ctrl + y
+`cmd + ctrl + y`
 
 ### continue to current line
-cmd + ctrl + c
+`cmd + ctrl + c`
 
 ### step into
-F7
+`F7`
 
 ### step over
-F6
+`F6`
 
 ### step out
-F8 
+`F8`
 
 ### toggle debug window
-cmd + shift + y
+`cmd + shift + y`
 
 ## navigation
 
 ### new tab
-cmd + t
+`cmd + t`
 
 ### previous tab
-cmd + shift + {
+`cmd + shift + {`
 
 ### next tab
-cmd + shift + }
+`cmd + shift + }`
 
 ### file counterpart
-cmd + ctrl  + up
+`cmd + ctrl  + up`
 
 ### file counterpart
-cmd + ctrl  + down 
+`cmd + ctrl  + down`
 
 ## edition
 
 ### toggle comment
-cmd + /
+`cmd + /`
 
 ### indent block right
-cmd + {
+`cmd + {`
 
 ### indent block right
-cmd + }
+`cmd + }`
 
 ### go to line
-cmd + l            
+`cmd + l`           
 
 ## search
 
 ### find in project
-cmd + shift + f
+`cmd + shift + f`
 
 ### reindent
-^ + i
+`^ + i`
 
 ### show completion
-^ + space
+`^ + space`
 
 ### quickly find function
-^ + 6
+`^ + 6`
