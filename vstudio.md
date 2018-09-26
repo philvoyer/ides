@@ -6,56 +6,56 @@
 `C-k C-n` / `C-k C-p`
 
 ### comment/uncomment
-C-k C-c / C-k C-u
+`C-k C-c` / `C-k C-u`
 
 ### code behind / xaml
-F7 / S-F7
+`F7 / S-F7`
 
 ### build
-C-S-b
+`C-S-b`
 
 ### launch
-F5
+`F5`
 
 ### navigate back / forward
-C-- / C-S--
+`C--` / `C-S--`
 
 ### go to line
-C-g
+`C-g`
 
 ### expand selection
-S-A-=
+`S-A-=`
 
 ### save all
-C-S-s
+`C-S-s`
 
 ### replace
-C-h
+`C-h`
 
 ### list membrer
-C-j
+`C-j`
 
 ### quick info
-C-k C-i
+`C-k C-i`
 
 ### format selection
-C-k C-f
+`C-k C-f`
 
 ### move line up/down
-A-up / A-down
+`A-up` / `A-down`
 
 ### line indent increase / decrease
-TAB / S-TAB
+`TAB` / `S-TAB`
 
 ### format line
-C-k C-f
+`C-k C-f`
 
 ### prettyfy buffer
-C-k C-d
+`C-k C-d`
 
 ### list member
-C-j
+`C-j`
 
 ### toggle special chacracters visibility
-C-R C-W
+`C-r C-w`
 
