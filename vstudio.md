@@ -43,6 +43,9 @@
 
 ## edition
 
+### delete line
+S-del
+
 ### comment/uncomment
 `C-k C-c` / `C-k C-u`
 
