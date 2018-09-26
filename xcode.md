@@ -1,3 +1,17 @@
+# xcode
+
+## file
+
+## compilation
+
+## debug
+
+## navigation
+
+## edition
+
+## misc
+
 ###
 cmd + r            run
 ###
