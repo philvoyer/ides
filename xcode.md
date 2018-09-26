@@ -4,57 +4,79 @@
 
 ## compilation
 
+### clean
+cmd + shift + k
+
+### build
+cmd + b
+
 ## debug
+
+### run
+cmd + r
+
+### toggle breakpoint
+cmd + \
+
+### continue execution
+cmd + ctrl + y
+
+### continue to current line
+cmd + ctrl + c
+
+### step into
+F7
+
+### step over
+F6
+
+### step out
+F8 
+
+### toggle debug window
+cmd + shift + y
 
 ## navigation
 
+### new tab
+cmd + t
+
+### previous tab
+cmd + shift + {
+
+### next tab
+cmd + shift + }
+
+### file counterpart
+cmd + ctrl  + up
+
+### file counterpart
+cmd + ctrl  + down 
+
 ## edition
 
-## misc
+### toggle comment
+cmd + /
 
-###
-cmd + r            run
-###
-cmd + b            build
-###
-cmd + shift + k    clean
-###
+### indent block right
+cmd + {
+
+### indent block right
+cmd + }
+
+### go to line
 cmd + l            
-###
-cmd + t            tab new
-###
-cmd + shift + {    tab previous
-###
-cmd + shift + }    tab next
-###
-cmd + shift + f    find in project
-###
-cmd + shift + y    toggle debug window
-###
-cmd + ctrl  + up   counterpart
-###
-cmd + ctrl  + down counterpart
-###
-cmd + {     indent block right
-###
-cmd + }     indent block right
-###
-^ + i              reindent
-###
-^ + space          show completion
-###
-^ + 6              quickly find function
-###
-cmd + /            toggle comment
-###
-cmd + \            toggle breakpoint
-###
-cmd + ctrl + y     continue execution
-###
-cmd + ctrl + c     continue to line
-###
-F7                 step into
-###
-F6                 step over
-###
-F8                 step out 
+
+## search
+
+### find in project
+cmd + shift + f
+
+### reindent
+^ + i
+
+### show completion
+^ + space
+
+### quickly find function
+^ + 6
