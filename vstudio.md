@@ -25,7 +25,11 @@
 `F10`
 
 ### step into
-`F10`
+`F11`
+
+### step out
+`
+S-F11`
 
 ## navigation
 
