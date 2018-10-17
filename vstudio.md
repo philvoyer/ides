@@ -28,8 +28,10 @@
 `F11`
 
 ### step out
-`
-S-F11`
+`S-F11`
+
+### continue
+`F5`
 
 ## navigation
 
