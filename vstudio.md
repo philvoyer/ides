@@ -91,3 +91,21 @@ S-del
 
 ### list member
 `C-j`
+
+### go to definition
+`F12`
+
+### go to implementation
+`C-F12`
+
+### peek definition
+`A-F12`
+
+### Find all references
+`S-F12`
+
+### peek definition
+`A-F12`
+
+### View call tree
+`C-k C-t`
