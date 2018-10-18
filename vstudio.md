@@ -61,6 +61,9 @@ S-del
 ### move line up/down
 `A-up` / `A-down`
 
+### toggle special character visibility
+`C-r C-w`
+
 ## formatting
 
 ### indent line increase / decrease
@@ -88,7 +91,3 @@ S-del
 
 ### list member
 `C-j`
-
-### toggle special chacracters visibility
-`C-r C-w`
-
