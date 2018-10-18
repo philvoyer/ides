@@ -72,7 +72,7 @@ S-del
 ### format selection
 `C-k C-f`
 
-### prettyfy buffer
+### prettify buffer
 `C-k C-d`
 
 ## misc
