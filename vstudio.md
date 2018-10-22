@@ -50,7 +50,7 @@
 ## edition
 
 ### delete line
-S-del
+`S-del`
 
 ### comment/uncomment
 `C-k C-c` / `C-k C-u`
@@ -89,8 +89,11 @@ S-del
 ### list member
 `C-j`
 
-### intellisense
+### complete word
 `C-Space`
+
+### toggle completion mode
+`C-A-Space`
 
 ### go to definition
 `F12`
