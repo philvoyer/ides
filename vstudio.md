@@ -83,14 +83,14 @@ S-del
 ### expand selection
 `S-A-=`
 
-### list membrer
-`C-j`
-
 ### quick info
 `C-k C-i`
 
 ### list member
 `C-j`
+
+### intellisense
+`C-Space`
 
 ### go to definition
 `F12`
