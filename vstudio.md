@@ -78,6 +78,9 @@
 
 ### select next matching selection
 `S-A-.`
+        
+### select all matching selection
+`C-S-A-,`
 
 ## formatting
 
