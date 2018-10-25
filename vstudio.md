@@ -68,6 +68,9 @@
 `C-d`
 
 ### expand selection
+`S-A-=`
+
+### contract selection
 `S-A--`
 
 ## formatting
@@ -85,9 +88,6 @@
 
 ### code behind / xaml
 `F7 / S-F7`
-
-### expand selection
-`S-A-=`
 
 ### quick info
 `C-k C-i`
