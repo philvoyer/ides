@@ -64,6 +64,9 @@
 ### toggle special character visibility
 `C-r C-w`
 
+### duplicate
+`C-d`
+
 ## formatting
 
 ### indent line increase / decrease
