@@ -67,6 +67,9 @@
 ### duplicate
 `C-d`
 
+### expand selection
+`S-A--`
+
 ## formatting
 
 ### indent line increase / decrease
