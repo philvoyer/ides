@@ -119,13 +119,13 @@
 ### peek definition
 `A-F12`
 
-### Find all references
+### find all references
 `S-F12`
 
 ### peek definition
 `A-F12`
 
-### View call tree
+### view call tree
 `C-k C-t`
 
 ### command window
