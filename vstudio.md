@@ -127,3 +127,6 @@
 
 ### View call tree
 `C-k C-t`
+
+### command window
+`C-A-a`
