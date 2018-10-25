@@ -73,6 +73,12 @@
 ### contract selection
 `S-A--`
 
+### add caret
+`C-A-click`
+
+### select next matching selection
+`S-A-.`
+
 ## formatting
 
 ### indent line increase / decrease
