@@ -93,6 +93,11 @@
 ### prettify buffer
 `C-k C-d`
 
+## interface
+
+### show output
+`C-A-o`
+
 ## misc
 
 ### code behind / xaml
