@@ -98,6 +98,9 @@
 ### show output
 `C-A-o`
 
+### show breakpoints
+`C-A-b`
+
 ## misc
 
 ### code behind / xaml
