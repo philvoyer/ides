@@ -111,6 +111,9 @@
 `C-A-i`
 
 ### show variables locals
+`C-A-v l`
+
+### show variables autos
 `C-A-v a`
 
 ### show diagnostic tools
