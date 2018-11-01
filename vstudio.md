@@ -110,6 +110,9 @@
 ### show immediate
 `C-A-i`
 
+### show variables locals
+`C-A-v a`
+
 ### show diagnostic tools
 `C-A-F2`
 
