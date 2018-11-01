@@ -110,6 +110,9 @@
 ### show immediate
 `C-A-i`
 
+### show diagnostic tools
+`C-A-F2`
+
 ### show 
 
 ## misc
