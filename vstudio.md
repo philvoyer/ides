@@ -107,6 +107,11 @@
 ### show exception settings
 `C-A-e`
 
+### show immediate
+`C-A-i`
+
+### show 
+
 ## misc
 
 ### code behind / xaml
