@@ -101,6 +101,12 @@
 ### show breakpoints
 `C-A-b`
 
+### show call stack
+`C-A-c`
+
+### show exception settings
+`C-A-e`
+
 ## misc
 
 ### code behind / xaml
