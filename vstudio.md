@@ -82,6 +82,9 @@
 ### select all matching selection
 `C-S-A-,`
 
+### rename
+`C-r C-r`
+
 ## formatting
 
 ### indent line increase / decrease
