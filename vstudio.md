@@ -98,6 +98,9 @@
 
 ## interface
 
+### show solution explorer
+`C-A-l`
+
 ### show output
 `C-A-o`
 
