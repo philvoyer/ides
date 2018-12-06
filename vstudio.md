@@ -41,6 +41,8 @@
 ### go to line
 `C-g`
 
+### go to file
+`C-S-t`
 ### bookmart set/unset
 `C-k C-k`
 
