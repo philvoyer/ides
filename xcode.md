@@ -63,7 +63,7 @@
 `cmd + ctrl + o`
 
 ### search documention
-`cmd + ctrl + o`
+`cmd + ctrl + 0`
 
 ## edition
 
