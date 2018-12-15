@@ -65,6 +65,9 @@
 ### search documention
 `cmd + ctrl + 0`
 
+### go to line
+`cmd + l`
+
 ## edition
 
 ### toggle comment
