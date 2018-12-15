@@ -54,10 +54,13 @@
 `cmd + shift + }`
 
 ### file counterpart
-`cmd + ctrl  + up`
+`cmd + ctrl + up`
 
 ### file counterpart
-`cmd + ctrl  + down`
+`cmd + ctrl + down`
+
+### open quickly
+`cmd + ctrl + o`
 
 ## edition
 
@@ -71,7 +74,7 @@
 `cmd + }`
 
 ### go to line
-`cmd + l`           
+`cmd + l`
 
 ## search
 
