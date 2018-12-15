@@ -62,6 +62,9 @@
 ### open quickly
 `cmd + ctrl + o`
 
+### search documention
+`cmd + ctrl + o`
+
 ## edition
 
 ### toggle comment
