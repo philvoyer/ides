@@ -54,6 +54,9 @@
 ### collapse to definitions
 `C-m C-o`
 
+### toggle all outlining
+`C-m C-l`
+
 ## edition
 
 ### delete line
