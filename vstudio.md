@@ -49,6 +49,11 @@
 ### bookmart next/previous
 `C-k C-n` / `C-k C-p`
 
+## outlining
+
+### collapse to definitions
+`C-m C-o`
+
 ## edition
 
 ### delete line
@@ -126,8 +131,6 @@
 
 ### show diagnostic tools
 `C-A-F2`
-
-### show 
 
 ## misc
 
