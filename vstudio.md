@@ -57,6 +57,9 @@
 ### toggle all outlining
 `C-m C-l`
 
+### stop outlining
+`C-m C-p`
+
 ## edition
 
 ### delete line
