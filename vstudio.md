@@ -30,6 +30,9 @@
 ### step out
 `S-F11`
 
+### Run to cursor
+`C-F10`
+
 ### continue
 `F5`
 
