@@ -38,6 +38,10 @@
 
 ## navigation
 
+### navigate windows
+
+`C-TAB`
+
 ### navigate back / forward
 `C--` / `C-S--`
 
