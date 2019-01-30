@@ -21,6 +21,9 @@
 ### toggle breakpoint
 `F9`
 
+### disable breakpoint
+`C-F9`
+
 ### step over
 `F10`
 
