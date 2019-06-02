@@ -80,6 +80,10 @@
 
 `cmd + ctrl + left`
 
+### go forward
+
+`cmd + ctrl + left`
+
 ## edition
 
 ### toggle comment
