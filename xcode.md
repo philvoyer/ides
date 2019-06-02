@@ -76,6 +76,10 @@
 
 `cmd + click`
 
+### go backward
+
+`cmd + ctrl + left`
+
 ## edition
 
 ### toggle comment
