@@ -60,7 +60,7 @@
 `cmd + ctrl + down`
 
 ### open quickly
-`cmd + ctrl + o`
+`cmd + shift + o`
 
 ### search documention
 `cmd + ctrl + 0`
