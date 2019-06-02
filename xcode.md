@@ -68,6 +68,10 @@
 ### go to line
 `cmd + l`
 
+### go to definition
+
+`cmd + click`
+
 ## edition
 
 ### toggle comment
