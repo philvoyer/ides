@@ -51,7 +51,7 @@
 `cmd + shift + {`
 
 ### next tab
-`cmd + shift + }`
+`cmd + shift + }` or `ctrl + TAB`
 
 ### file counterpart
 `cmd + ctrl + up`
