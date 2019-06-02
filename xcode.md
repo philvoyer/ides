@@ -82,7 +82,7 @@
 
 ### go forward
 
-`cmd + ctrl + left`
+`cmd + ctrl + right`
 
 ## edition
 
