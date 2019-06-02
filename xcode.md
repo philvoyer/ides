@@ -72,6 +72,10 @@
 
 `cmd + click`
 
+### go to caller 
+
+`cmd + click`
+
 ## edition
 
 ### toggle comment
