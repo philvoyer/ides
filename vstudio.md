@@ -96,12 +96,6 @@
 ### add caret
 `C-A-click`
 
-### select next matching selection
-`S-A-.`
-        
-### select all matching selection
-`C-S-A-,`
-
 ### rename
 `C-r C-r`
 
@@ -129,6 +123,12 @@
 
 ### replace in project
 `C-S-h`
+
+### select next matching selection
+`S-A-.`
+        
+### select all matching selection
+`C-S-A-,`
 
 ## interface
 
