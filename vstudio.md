@@ -124,6 +124,9 @@
 ### search in file
 `C-f`
 
+### replace in file
+`C-h`
+
 ## interface
 
 ### show solution explorer
