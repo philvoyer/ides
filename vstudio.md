@@ -128,7 +128,7 @@
 `C-h`
 
 ### search in project
-`C-f`
+`C-S-f`
 
 ## interface
 
