@@ -127,6 +127,9 @@
 ### replace in file
 `C-h`
 
+### search in project
+`C-f`
+
 ## interface
 
 ### show solution explorer
