@@ -78,9 +78,6 @@
 ### comment/uncomment
 `C-k C-c` / `C-k C-u`
 
-### replace
-`C-h`
-
 ### move line up/down
 `A-up` / `A-down`
 
