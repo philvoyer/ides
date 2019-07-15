@@ -119,6 +119,11 @@
 ### prettify buffer
 `C-k C-d`
 
+## search
+
+### search in file
+`C-f`
+
 ## interface
 
 ### show solution explorer
