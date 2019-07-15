@@ -188,9 +188,6 @@
 ### find all references
 `S-F12`
 
-### peek definition
-`A-F12`
-
 ### view call tree
 `C-k C-t`
 
