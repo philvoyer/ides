@@ -130,6 +130,9 @@
 ### search in project
 `C-S-f`
 
+### replace in project
+`C-S-h`
+
 ## interface
 
 ### show solution explorer
