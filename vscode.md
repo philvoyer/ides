@@ -79,7 +79,16 @@
 ### comment/uncomment
 ` `
 
+### find
+` `
+
+### find in files
+` `
+
 ### replace
+` `
+
+### replace in files
 ` `
 
 ### move line up/down
@@ -118,6 +127,26 @@
 ` `
 
 ### prettify buffer
+` `
+
+## search
+
+### find
+` `
+
+### find in files
+` `
+
+### replace
+` `
+
+### replace in files
+` `
+
+### select next matching selection
+` `
+
+### select all matching selection
 ` `
 
 ## interface
