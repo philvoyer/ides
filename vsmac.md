@@ -79,8 +79,17 @@
 ### comment/uncomment
 `cmd + /`
 
+### find
+`cmd + f`
+
+### find in files
+`cmd + shift + f`
+
 ### replace
-` `
+`cmd + alt + f`
+
+### replace in files
+`cmd + alt + shift + f`
 
 ### move line up/down
 ` ` / ` `
@@ -167,7 +176,7 @@
 ` `
 
 ### go to definition
-` `
+`cmd + d`
 
 ### go to implementation
 ` `
