@@ -113,16 +113,16 @@
 
 ## search
 
-### search in file
+### find
 `C-f`
 
-### replace in file
-`C-h`
-
-### search in project
+### find in files
 `C-S-f`
 
-### replace in project
+### replace
+`C-h`
+
+### replace in files
 `C-S-h`
 
 ### select next matching selection
