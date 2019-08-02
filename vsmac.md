@@ -52,7 +52,8 @@
 ` `
 
 ### go to file
-` `
+`cmd + shift + d`
+
 ### bookmart set/unset
 `NA`
 
