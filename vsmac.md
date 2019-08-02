@@ -79,18 +79,6 @@
 ### comment/uncomment
 `cmd + /`
 
-### find
-`cmd + f`
-
-### find in files
-`cmd + shift + f`
-
-### replace
-`cmd + alt + f`
-
-### replace in files
-`cmd + alt + shift + f`
-
 ### move line up/down
 ` ` / ` `
 
@@ -127,6 +115,26 @@
 ` `
 
 ### prettify buffer
+` `
+
+## search
+
+### find
+`cmd + f`
+
+### find in files
+`cmd + shift + f`
+
+### replace
+`cmd + alt + f`
+
+### replace in files
+`cmd + alt + shift + f`
+
+### select next matching selection
+` `
+        
+### select all matching selection
 ` `
 
 ## interface
