@@ -188,7 +188,7 @@
 ` `
 
 ### go to definition
-`cmd + d`
+`cmd + d` / `F12`
 
 ### peek definition
 ` `
