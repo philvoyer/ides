@@ -80,6 +80,9 @@
 ### delete line
 ` `
 
+### delete to end of line
+`ctrl + k`
+
 ### comment/uncomment
 `cmd + /`
 
