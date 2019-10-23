@@ -1,6 +1,6 @@
 # Visual Studio
 
-## file 
+## file
 
 ### save all
 `C-S-s`
@@ -127,7 +127,7 @@
 
 ### select next matching selection
 `S-A-.`
-        
+
 ### select all matching selection
 `C-S-A-,`
 
