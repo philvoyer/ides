@@ -110,6 +110,10 @@
 ### rename
 ` `
 
+### complete
+
+`ctrl + space`
+
 ## formatting
 
 ### indent line increase / decrease
