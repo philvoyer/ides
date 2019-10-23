@@ -117,6 +117,10 @@
 
 `ctrl + space`
 
+### show parameters
+
+`ctrl + shift + space`
+
 ## formatting
 
 ### indent line increase / decrease
