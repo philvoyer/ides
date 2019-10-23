@@ -8,7 +8,7 @@
 ## compilation
 
 ### build
-`cmd + alt + b`
+`cmd + option + b`
 
 ## debug
 
@@ -126,10 +126,10 @@
 `cmd + shift + f`
 
 ### replace
-`cmd + alt + f`
+`cmd + option + f`
 
 ### replace in files
-`cmd + alt + shift + f`
+`cmd + option + shift + f`
 
 ### select next matching selection
 ` `
