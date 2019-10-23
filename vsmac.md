@@ -186,9 +186,6 @@
 ### go to definition
 `cmd + d`
 
-### go to implementation
-` `
-
 ### peek definition
 ` `
 
