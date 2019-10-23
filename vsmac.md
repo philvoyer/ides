@@ -146,7 +146,7 @@
 ` `
 
 ### show breakpoints
-` `
+`cmd + option + b`
 
 ### show call stack
 ` `
