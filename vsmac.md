@@ -50,7 +50,7 @@
 ` `
 
 ### navigate back / forward
-` ` / ` `
+`cmd + ctrl + ←` / `cmd + ctrl + →`
 
 ### go to line
 ` `
@@ -148,7 +148,7 @@
 
 ### select next matching selection
 ` `
-        
+
 ### select all matching selection
 ` `
 
