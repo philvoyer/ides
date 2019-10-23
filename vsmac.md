@@ -19,7 +19,7 @@
 `cmd + enter`
 
 ### toggle breakpoint
-` `
+`cmd + \`
 
 ### disable breakpoint
 ` `
