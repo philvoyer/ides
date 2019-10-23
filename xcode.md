@@ -72,12 +72,12 @@
 
 `cmd + click`
 
-### go to caller 
+### go to caller
 
 `cmd + click`
 
 ### go backward
- 
+
 `cmd + ctrl + ←`
 
 ### go forward
