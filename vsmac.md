@@ -22,7 +22,7 @@
 `cmd + \`
 
 ### disable breakpoint
-` `
+`cmd + option + /`
 
 ### step over
 ` `
@@ -80,7 +80,7 @@
 `cmd + /`
 
 ### move line up/down
-` ` / ` `
+` `
 
 ### toggle special character visibility
 ` `
