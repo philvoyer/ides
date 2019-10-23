@@ -41,6 +41,10 @@
 
 ## navigation
 
+### navigate to
+
+`cmd + .`
+
 ### navigate windows
 
 ` `
