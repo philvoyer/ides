@@ -205,7 +205,7 @@
 ` `
 
 ### find all references
-` `
+`cmd + shift + r`
 
 ### view call tree
 ` `
