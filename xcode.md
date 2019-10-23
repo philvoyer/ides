@@ -54,10 +54,10 @@
 `cmd + shift + }` or `ctrl + TAB`
 
 ### file counterpart
-`cmd + ctrl + up`
+`cmd + ctrl + ↑`
 
 ### file counterpart
-`cmd + ctrl + down`
+`cmd + ctrl + ↓`
 
 ### open quickly
 `cmd + shift + o`
@@ -77,12 +77,12 @@
 `cmd + click`
 
 ### go backward
-
-`cmd + ctrl + left`
+ 
+`cmd + ctrl + ←`
 
 ### go forward
 
-`cmd + ctrl + right`
+`cmd + ctrl + →`
 
 ## edition
 
