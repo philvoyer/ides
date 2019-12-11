@@ -48,6 +48,10 @@
 ### navigate back / forward
 `C--` / `C-S--`
 
+### navigate last change
+
+`C-S-backspace`
+
 ### go to line
 `C-g`
 
