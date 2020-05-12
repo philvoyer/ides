@@ -36,8 +36,8 @@
 ### step out
 `shift + cmd + U, shift + cmd + F11`
 
-### Run to cursor
-` `
+### run to cursor
+`cmd + F10`
 
 ### continue
 `cmd + ENTER`
