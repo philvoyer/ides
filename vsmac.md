@@ -21,6 +21,9 @@
 ### toggle breakpoint
 `cmd + \`
 
+### view breakpoints
+`option + cmd + B`
+
 ### disable breakpoint
 `cmd + option + /`
 
