@@ -34,7 +34,7 @@
 `shift + cmd + I, cmd + F11`
 
 ### step out
-` `
+`shift + cmd + U, shift + cmd + F11`
 
 ### Run to cursor
 ` `
