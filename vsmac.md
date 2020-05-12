@@ -31,7 +31,7 @@
 `shift + comd + O, F10`
 
 ### step into
-` `
+`shift + cmd + I, cmd + F11`
 
 ### step out
 ` `
