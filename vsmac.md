@@ -28,7 +28,7 @@
 `cmd + option + /`
 
 ### step over
-` `
+`shift + comd + O, F10`
 
 ### step into
 ` `
