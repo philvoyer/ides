@@ -37,7 +37,7 @@
 ` `
 
 ### continue
-` `
+`cmd + ENTER`
 
 ## navigation
 
