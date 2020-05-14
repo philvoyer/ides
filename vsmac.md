@@ -130,7 +130,7 @@
 `TAB` / `shift + TAB`
 
 ### format selection
-` `
+`ctrl + i`
 
 ### prettify buffer
 ` `
