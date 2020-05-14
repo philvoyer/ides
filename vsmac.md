@@ -50,7 +50,7 @@
 
 ### navigate windows
 
-` `
+`ctrl + TAB`
 
 ### navigate back / forward
 `cmd + ctrl + ←` / `cmd + ctrl + →`
