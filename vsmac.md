@@ -56,7 +56,7 @@
 `cmd + ctrl + ←` / `cmd + ctrl + →`
 
 ### go to line
-` `
+`cmd + l`
 
 ### go to file
 `cmd + shift + d`
