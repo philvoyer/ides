@@ -59,7 +59,7 @@
 `cmd + l`
 
 ### go to file
-`cmd + shift + d`
+`cmd + p`
 
 ### bookmart set/unset
 `NA`
