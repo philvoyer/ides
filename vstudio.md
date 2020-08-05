@@ -66,6 +66,9 @@
 
 ## outlining
 
+### toggle collapse / expand
+`C-m C-m`
+
 ### collapse to definitions
 `C-m C-o`
 
