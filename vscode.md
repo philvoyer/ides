@@ -52,7 +52,7 @@
 ` `
 
 ### go to file
-` `
+`cmd + p`
 
 ### bookmart set/unset
 ` `
