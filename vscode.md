@@ -124,7 +124,7 @@
 ` `
 
 ### format selection
-` `
+`cmd + k, cmd + f`
 
 ### prettify buffer
 ` `
