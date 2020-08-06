@@ -116,7 +116,7 @@
 ` `
 
 ### rename
-` `
+`F2`
 
 ## formatting
 
