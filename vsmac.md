@@ -208,7 +208,7 @@
 ` `
 
 ### find all references
-`cmd + shift + r`
+`shift + cmd + r` / `shift + F12`
 
 ### view call tree
 ` `
