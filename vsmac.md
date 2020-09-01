@@ -201,7 +201,7 @@
 ### toggle completion mode
 ` `
 
-### go to definition
+### go to declaration
 `cmd + d` / `F12`
 
 ### peek definition
