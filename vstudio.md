@@ -3,17 +3,17 @@
 ## file
 
 ### save all
-`C-S-s`
+`ctrl + shift + s`
 
 ## compilation
 
 ### build
-`C-S-b`
+`ctrl + shift + b`
 
 ## debug
 
 ### start without debugging
-`C-F5`
+`ctrl + F5`
 
 ### start debugging
 `F5`
@@ -22,7 +22,7 @@
 `F9`
 
 ### disable breakpoint
-`C-F9`
+`ctrl + F9`
 
 ### step over
 `F10`
@@ -31,10 +31,10 @@
 `F11`
 
 ### step out
-`S-F11`
+`shift + F11`
 
 ### Run to cursor
-`C-F10`
+`ctrl + F10`
 
 ### continue
 `F5`
@@ -43,161 +43,161 @@
 
 ### navigate windows
 
-`C-TAB`
+`ctrl + TAB`
 
 ### navigate back / forward
-`C--` / `C-S--`
+`ctrl + -` / `ctrl + shift + -`
 
 ### navigate last change
 
-`C-S-backspace`
+`ctrl + shift + backspace`
 
 ### go to line
-`C-g`
+`ctrl + g`
 
 ### go to file
-`C-S-t`
+`ctrl + shift + t`
 
 ### bookmart set/unset
-`C-k C-k`
+`ctrl + k ctrl + k`
 
 ### bookmart next/previous
-`C-k C-n` / `C-k C-p`
+`ctrl + k ctrl + n` / `ctrl + k ctrl + p`
 
 ## outlining
 
 ### toggle collapse / expand
-`C-m C-m`
+`ctrl + m ctrl + m`
 
 ### collapse to definitions
-`C-m C-o`
+`ctrl + m ctrl + o`
 
 ### toggle all outlining
-`C-m C-l`
+`ctrl + m ctrl + l`
 
 ### stop outlining
-`C-m C-p`
+`ctrl + m ctrl + p`
 
 ## edition
 
 ### delete line
-`S-del`
+`shift + del`
 
 ### comment/uncomment
-`C-k C-c` / `C-k C-u`
+`ctrl + k ctrl + c` / `ctrl + k ctrl + u`
 
 ### move line up/down
-`A-up` / `A-down`
+`alt + up` / `alt + down`
 
 ### toggle special character visibility
-`C-r C-w`
+`ctrl + r ctrl + w`
 
 ### duplicate
-`C-d`
+`ctrl + d`
 
 ### expand selection
-`S-A-=`
+`shift + alt + =`
 
 ### contract selection
-`S-A--`
+`shift + alt + -`
 
 ### add caret
-`C-A-click`
+`ctrl + alt + click`
 
 ### rename
-`C-r C-r`
+`ctrl + r ctrl + r`
 
 ## formatting
 
 ### indent line increase / decrease
-`TAB` / `S-TAB`
+`TAB` / `shift + TAB`
 
 ### format selection
-`C-k C-f`
+`ctrl + k ctrl + f`
 
 ### prettify buffer
-`C-k C-d`
+`ctrl + k ctrl + d`
 
 ## search
 
 ### find
-`C-f`
+`ctrl + f`
 
 ### find in files
-`C-S-f`
+`ctrl + shift + f`
 
 ### replace
-`C-h`
+`ctrl + h`
 
 ### replace in files
-`C-S-h`
+`ctrl + shift + h`
 
 ### select next matching selection
-`S-A-.`
+`shift + alt + .`
 
 ### select all matching selection
-`C-S-A-,`
+`ctrl + shift + alt + ,`
 
 ## interface
 
 ### show solution explorer
-`C-A-l`
+`ctrl + alt + l`
 
 ### show output
-`C-A-o`
+`ctrl + alt + o`
 
 ### show breakpoints
-`C-A-b`
+`ctrl + alt + b`
 
 ### show call stack
-`C-A-c`
+`ctrl + alt + c`
 
 ### show exception settings
-`C-A-e`
+`ctrl + alt + e`
 
 ### show immediate
-`C-A-i`
+`ctrl + alt + i`
 
 ### show variables locals
-`C-A-v l`
+`ctrl + alt + v l`
 
 ### show variables autos
-`C-A-v a`
+`ctrl + alt + v a`
 
 ### show diagnostic tools
-`C-A-F2`
+`ctrl + alt + F2`
 
 ## misc
 
 ### code behind / xaml
-`F7 / S-F7`
+`F7 / shift + F7`
 
 ### quick info
-`C-k C-i`
+`ctrl + k ctrl + i`
 
 ### list member
-`C-j`
+`ctrl + j`
 
 ### complete word
-`C-Space`
+`ctrl + Space`
 
 ### toggle completion mode
-`C-A-Space`
+`ctrl + alt + Space`
 
 ### go to definition
 `F12`
 
 ### go to implementation
-`C-F12`
+`ctrl + F12`
 
 ### peek definition
-`A-F12`
+`alt + F12`
 
 ### find all references
-`S-F12`
+`shift + F12`
 
 ### view call tree
-`C-k C-t`
+`ctrl + k ctrl + t`
 
 ### command window
-`C-A-a`
+`ctrl + alt + a`
